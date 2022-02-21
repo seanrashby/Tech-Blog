@@ -4,7 +4,7 @@
 The primary objectives of this exercise were to demonstrate the following:
 
 - practical implementation using express and routing (get, post, put, delete)
-- practical implementation using Sequalize
+- practical implementation using Sequelize
 - practical implementation using a front end framework (handlebars)
 - deployment of complete application to heroku
 - github repo management
