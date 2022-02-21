@@ -20,4 +20,4 @@ This exercise requires the following npm modules
 
 # Link
 [Github Repo](https://github.com/seanrashby/Tech-Blog)
-[Heroku Deployment]()
+[Heroku Deployment](https://teq-blog.herokuapp.com/)
